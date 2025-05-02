@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Sweden<br>✉️  You can contact me at masoud90@hotmail.com<br>🧠  I'm learning ISTQB Certification, Automation Testing, Manual Testing<br>🤝  I'm open to collaborating on Innovative Software Solutions, IoT and Microcontroller Projects, Web and Mobile Application Development
+🌍  I'm based in Sweden<br>✉️  You can contact me at masoud90@hotmail.com<br>🧠  ISTQB Certification, Automation Testing, Manual Testing<br>🤝  I'm open to collaborating on Innovative Software Solutions, IoT and Microcontroller Projects, Web and Mobile Application Development
 
 
 ## 🌐 Socials:
